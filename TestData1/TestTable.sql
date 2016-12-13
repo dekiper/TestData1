@@ -4,5 +4,5 @@
     [Prezime] NVARCHAR(50) NULL, 
     [Ime] NVARCHAR(50) NULL, 
     [Telefon] CHAR(10) NULL, 
-    [Aktivan] BIT NULL
+    [AktivanTest] BIT NULL
 )
